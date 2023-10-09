@@ -2,3 +2,6 @@ SECOND FILE
 ===========
 
 this is the second file
+
+Added the first lines
+Added some more liness
