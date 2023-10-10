@@ -2,3 +2,5 @@ SECOND FILE
 ===========
 
 this is the second file
+This is the second line
+this is the third line
